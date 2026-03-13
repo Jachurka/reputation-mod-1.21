@@ -1,0 +1,37 @@
+	{
+	"schemaVersion": 1,
+	"id": "reputationmod",
+	"version": "${version}",
+	"name": "Reputation mod",
+	"description": "This is a reputation mod made by Jachur",
+	"authors": [
+		"Jachur"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/reputationmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.jachur.reputationmod.ReputationMod"
+		],
+		"fabric-datagen": [
+			"net.jachur.reputationmod.ReputationModDataGenerator"
+		],
+		"client": [
+			"net.jachur.reputationmod.ReputationModClient"
+		]
+	},
+	"mixins": [
+		"reputationmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
