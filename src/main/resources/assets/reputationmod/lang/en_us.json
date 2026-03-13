@@ -1,4 +1,6 @@
 {
   "item.reputationmod.pink_garnet": "Pink Garnet",
-  "item.reputationmod.raw_pink_garnet": "Raw Pink Garnet"
+  "item.reputationmod.raw_pink_garnet": "Raw Pink Garnet",
+
+  "block.reputationmod.pink_garnet_block": "Block of Pink Garnet"
 }

@@ -18,7 +18,7 @@ public class ModItems {
     }
 
     public static void registerModItems() {
-        ReputationMod.LOGGER.info("Registering Mod Items for" + ReputationMod.MOD_ID);
+        ReputationMod.LOGGER.info("Registering Mod Items for " + ReputationMod.MOD_ID);
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
             entries.add(PINK_GARNET);
