@@ -1,6 +1,56 @@
 {
-  "item.reputationmod.pink_garnet": "Pink Garnet",
-  "item.reputationmod.raw_pink_garnet": "Raw Pink Garnet",
+  "itemgroup.reputationmod.gems_items": "Oh shiney!",
 
-  "block.reputationmod.pink_garnet_block": "Block of Pink Garnet"
+  "item.reputationmod.ruby": "Ruby",
+  "item.reputationmod.sapphire": "Sapphire",
+  "item.reputationmod.topaz": "Topaz",
+  "item.reputationmod.jade": "Jade",
+  "item.reputationmod.onyx": "Onyx",
+  "item.reputationmod.opal": "Opal",
+  "item.reputationmod.garnet": "Garnet",
+
+  "block.reputationmod.ruby_block": "Block of Ruby",
+  "block.reputationmod.sapphire_block": "Block of Sapphire",
+  "block.reputationmod.topaz_block": "Block of Topaz",
+  "block.reputationmod.jade_block": "Block of Jade",
+  "block.reputationmod.onyx_block": "Block of Onyx",
+  "block.reputationmod.opal_block": "Block of Opal",
+  "block.reputationmod.garnet_block": "Block of Garnet",
+
+  "item.reputationmod.ruby_helmet": "Ruby Helmet",
+  "item.reputationmod.ruby_chestplate": "Ruby Chestplate",
+  "item.reputationmod.ruby_leggings": "Ruby Leggings",
+  "item.reputationmod.ruby_boots": "Ruby Boots",
+
+  "item.reputationmod.sapphire_helmet": "Sapphire Helmet",
+  "item.reputationmod.sapphire_chestplate": "Sapphire Chestplate",
+  "item.reputationmod.sapphire_leggings": "Sapphire Leggings",
+  "item.reputationmod.sapphire_boots": "Sapphire Boots",
+
+  "item.reputationmod.topaz_helmet": "Topaz Helmet",
+  "item.reputationmod.topaz_chestplate": "Topaz Chestplate",
+  "item.reputationmod.topaz_leggings": "Topaz Leggings",
+  "item.reputationmod.topaz_boots": "Topaz Boots",
+
+  "item.reputationmod.jade_helmet": "Jade Helmet",
+  "item.reputationmod.jade_chestplate": "Jade Chestplate",
+  "item.reputationmod.jade_leggings": "Jade Leggings",
+  "item.reputationmod.jade_boots": "Jade Boots",
+
+  "item.reputationmod.onyx_helmet": "Onyx Helmet",
+  "item.reputationmod.onyx_chestplate": "Onyx Chestplate",
+  "item.reputationmod.onyx_leggings": "Onyx Leggings",
+  "item.reputationmod.onyx_boots": "Onyx Boots",
+
+  "item.reputationmod.opal_helmet": "Opal Helmet",
+  "item.reputationmod.opal_chestplate": "Opal Chestplate",
+  "item.reputationmod.opal_leggings": "Opal Leggings",
+  "item.reputationmod.opal_boots": "Opal Boots",
+
+  "item.reputationmod.garnet_helmet": "Garnet Helmet",
+  "item.reputationmod.garnet_chestplate": "Garnet Chestplate",
+  "item.reputationmod.garnet_leggings": "Garnet Leggings",
+  "item.reputationmod.garnet_boots": "Garnet Boots",
+
+  "entity.minecraft.villager.gem_cutter": "Gem cutter"
 }
